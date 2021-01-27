@@ -5,14 +5,6 @@ This is the repository of my project LADS.\
 **Product** : Mobility service providers can get the driver's quality history directly from the data and improve their employees.
 
 For any commercial usage,Read License file!
-#### Download the Necessary Large files Here
-[Link for files](http://www.mediafire.com/folder/hsml89rboufxf/Files_for_LADS)
---> Store the downloaded files in the same directory where the repository is cloned.\
-[Link for files(2)](https://drive.google.com/file/d/1VBvTwakjq43EC5cZS4Qd2D51RS8js5dc/view)
---> This is Entire Project, Extract the Files for usage
-
-
-
 
 ##### Recommended Configuration:
  4 GB Ram, 4-Core GPU , Storage-150MB
@@ -20,23 +12,10 @@ For any commercial usage,Read License file!
  4 GB Ram,4-Core CPU, Storage - 150MB
 #### INSTALLATION GUIDE:
 
-Use Anaconda for better experience:
-```cmd
-git clone https://github.com/saikrithik/LADS-License-Authorization-and-Drivers-Saftey.git
-cd LADS-License-Authorization-and-Drivers-Saftey
-```
-1. create a virtual environment (Recommended)
-```cmd
-conda create -n environment_name python=3.7
-```
-2. activate virtual environment
-```cmd
-conda activate environment_name
-```
-2. Install requirements.txt
+
+#### Install requirements.txt
 ```cmd
 pip install cmake
-conda install -c conda-forge dlib
 pip install -r requirements.txt
 ```
 
