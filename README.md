@@ -17,7 +17,7 @@ This is the repository of my project LADS.\
 
 Use Anaconda for better experience:
 ```cmd
-git clone https://github.com/saikrithik/LADS-License-Authorization-and-Drivers-Saftey.git
+git clone https://github.com/kodatiRevanth/LADS-License-Authorization-and-Drivers-Saftey
 cd LADS-License-Authorization-and-Drivers-Saftey
 ```
 1. create a virtual environment (Recommended)
