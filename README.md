@@ -43,12 +43,12 @@ pip install -r requirements.txt
 
 #### Usage Guide.
 ##### Single time usage programs
-1. To store the driver's/ user's image locally use StoringImages.py(Each click will correspond to each stored photo).
+1. To store the driver's/ user's image locally use StoringImages.py(Each click will correspond to each stored photo).(maps image with government database)
 2. Train the image using TrainingImages.py(It trains all the photos that are stored in the database).\
 NOTE: (scipy version should be scipy==1.1.0).
 ##### You can also skip the above step and directly run the appication and make the storing and training from the below application itself
 3. Run Final.py program for usage of LADS application.
-
+4. For test purposes update your details in "license.xlsx" in Adminusagefiles . 
 ## Working Photos
 **Detects Face(IF USER is Authorized it detects eye landamrks)\
 Data is Encoded at the User end. Only admin can see the history of the user.**
